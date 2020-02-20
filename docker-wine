@@ -1,4 +1,3 @@
-#!/bin/bash
 
 # Run docker with just X11 support
 docker_run () {
